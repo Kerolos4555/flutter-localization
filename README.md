@@ -1,10 +1,10 @@
 # flutter_localization
 
-A simple Flutter project.
+A simple Flutter Practice.
 
 ## Getting Started
 
-Flutter project showcasing multilingual support using Flutter's localization.
+Showcasing multilingual support using Flutter's localization.
 
 ## 🌐 Features:
 - Easy language switching
